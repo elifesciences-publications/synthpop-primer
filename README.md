@@ -1,4 +1,5 @@
 ## Synthetic datasets: A non-technical primer for the biobehavioural sciences to promote reproducibility and hypothesis-generation
+### This code is associated with the paper from Quintana, "A synthetic dataset primer for the biobehavioural sciences to promote reproducibility and hypothesis generation". eLife, 2020. http://dx.doi.org/10.7554/eLife.53275
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3520475.svg)](https://doi.org/10.5281/zenodo.3520475)
 
